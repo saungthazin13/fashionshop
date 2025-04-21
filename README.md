@@ -22,7 +22,7 @@ This project is set up with ESLint and supports Hot Module Replacement (HMR) for
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Fashion-Shop.git
+git clone https://github.com/saungthazin13/fashionshop.git
 cd Fashion-Shop
 
 2. Install Dependencies
